@@ -4,4 +4,4 @@
 <p> Atualmente estou trabalhando com HTML, CSS, JavaScript, Python e SQL, utilizando IDE's como VSCode, PyCharm e MySQL. Também estudo controle de versão com Git e boas práticas de desenvolvimento. </p>
 <p> Gosto de me manter atualizada sobre Inteligências Artificiais e Segurança da Informação. </p>
 <hr>
-<p><img src="https://live.staticflickr.com/65535/53776729948_2c53481ba5_c.jpg" type="image" width=100%></p>
+<p><img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" type="gif" width=80%></p>
