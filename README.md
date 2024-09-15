@@ -2,8 +2,8 @@
   <img src="https://img.icons8.com/?size=33&id=4Z2nCrz5iPY2&format=png&color=836FFF">
 </div>
 <div align="center">
-  <h5> software engineering student <br>
-      lang: pt-br(native)/en(a1) </h5>
+  <h4> software engineering student <br>
+      lang: pt-br(native)/en(a1) </h4>
 </div>
 <div align="center">
   <!--HTML--> <img src="https://img.icons8.com/?size=26&id=101353&format=png&color=ffffff">
