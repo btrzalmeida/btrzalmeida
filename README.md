@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/?size=33&id=4Z2nCrz5iPY2&format=png&color=2A5159">
+  <img src="https://img.icons8.com/?size=33&id=4Z2nCrz5iPY2&format=png&color=9373D9">
 </div>
 <div align="center">
   <h4> software engineering student <br>
