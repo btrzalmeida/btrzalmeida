@@ -17,9 +17,5 @@
   <!--WINDOWS11--> <img src="https://img.icons8.com/?size=26&id=ee4s7iSQnSQA&format=png&color=ffffff">
   <!--UBUNTU--><img src="https://img.icons8.com/?size=21&id=11370&format=png&color=ffffff">
 </div>
-<br>
-<div align="center">
-  <a src="##"><img alt="Static Badge" src="https://img.shields.io/badge/PLAYLIST%20LOFI-%20black?style=flat-square&logo=spotify&logoColor=%23ffffff&logoSize=auto&labelColor=%23000000&color=%23000000&cacheSeconds=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F4HVe3KkA9abRxlcFiniyIa%3Fsi%3Dfa4e6f465bfa4eb4"></a>
-</div>
 
 
